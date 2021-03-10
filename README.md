@@ -33,6 +33,7 @@
 ### Differences
 
 - **Statically** typed nature
+- Mostly used for Backend / Systems only
 - **Stable** without breaking changes
 - **Little** to no **changes** in the ecosystem
 - **Simple Design**
@@ -52,7 +53,6 @@
 - Too **simple**
 - Can get **ugly**
 - Small **adoption**
-- Hard to find a **job**
 
 ### Do(s)
 
@@ -70,3 +70,4 @@
 ### References
 
 - [Golang Resources YouTube Video](https://youtu.be/S8ufuQLa4BY)
+- [Medium Article - My journey from JavaScript to Go](https://steevehook.medium.com/my-journey-from-javascript-to-go-9fb1e5d49fc2)
