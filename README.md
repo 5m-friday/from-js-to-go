@@ -1,5 +1,7 @@
 # My Journey from JS to Go
 
+<img alt="from js to go image" src="https://github.com/5m-friday/from-js-to-go/blob/main/from-js-to-go.jpg?raw=true" width="600"/>
+
 ### How it Started
 
 - Got sick of **Dynamic** languages
